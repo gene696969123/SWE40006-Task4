@@ -15,9 +15,9 @@ Target level: Task 4.4 High Distinction
 ## Docker Hub images
 
 ```
-docker pull <DOCKERHUB-USERNAME>/swe40006-flask:1.0
-docker pull <DOCKERHUB-USERNAME>/swe40006-api:1.0
-docker pull <DOCKERHUB-USERNAME>/swe40006-analyser:1.0
+docker pull jinn666666/swe40006-flask:1.0
+docker pull jinn666666/swe40006-api:1.0
+docker pull jinn666666/swe40006-analyser:1.0
 ```
 
 ## Build and run
